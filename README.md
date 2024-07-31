@@ -70,38 +70,55 @@ Below you will find a list detailing the Modern Greek Alphabet and the sounds th
 #### Sounds found in English
 **Alpha (Αα)**
 - In English, our "a" sound is more open than the one in Greek. This "a" sound is closer to the "u" in "nut". [An example pronunciation can be found here](https://en.wikipedia.org/wiki/Near-open_central_vowel).
+
 **Beta (Ββ)**
 - Pronounced like “v”, as in “**v**ery”.
+
 **Delta (Δδ)**
 - Pronounced like “th”, as in “**th**e”.
+
 **Epsilon (Εε)**
 - Pronounced like “e”, as in “b**e**t”.
+
 **Zeta (Ζζ)**
 - Pronounced like “z”, as in “zoo”. In English, our "z" sound is a little bit different (this applies to "s") as well. [An explanation for this can be found here](https://en.wikipedia.org/wiki/Modern_Greek_phonology#cite_note-FOOTNOTEArvaniti200712-7:~:text=/s/%20and%20/z/%20are%20somewhat%20retracted%20(%5Bs%CC%A0%2C%20z%CC%A0%5D)%3B%20they%20are%20produced%20in%20between%20English%20alveolars%20/s%2C%20z/%20and%20postalveolars%20/%CA%83%2C%20%CA%92/.%20/s/%20is%20variably%20fronted%20or%20further%20retracted%20depending%20on%20environment%2C%20and%2C%20in%20some%20cases%2C%20it%20may%20be%20better%20described%20as%20an%20advanced%20postalveolar%20(%5B%CA%83%CB%96%5D).%5B7%5D%3E).
+
 **Eta, Iota, Upsilon (Ηη/Ιι/Υυ)**
 - Pronounced like “ee”, as in “b**ee**t”.
+
 **Theta (Θθ)**
 - Pronounced like “th”, as in “**th**anks”.
+
 **Kappa (Κκ)**
 - Pronounced like “k”, as in “**k**ey”.
+
 **Lamda (Λλ)**
 - Pronounced like “l”, as in “**l**ove”. In English, our "l" sound is a little bit different (depending on region). Greek utilizes a "light" l, whereas ours is a "dark" l. [An explanation for this can be found here](https://sandiegovoiceandaccent.com/american-english-consonants/how-to-pronounce-the-l-sound-light-l-vs-dark-l).
+
 **Mu (Μμ)**
 - Pronounced like “m”, as in “mu**m**”.
+
 **Nu (Νν)**
 - Pronounced like “n”, as in “**n**ag”.
+
 **Xi (Ξξ)**
 - Pronounced like “ks”, as in “su**cks**” (or “x”, as in ma**x**). The previous note about our "z" and "s" sound being different [applies here, too](https://en.wikipedia.org/wiki/Modern_Greek_phonology#cite_note-FOOTNOTEArvaniti200712-7:~:text=/s/%20and%20/z/%20are%20somewhat%20retracted%20(%5Bs%CC%A0%2C%20z%CC%A0%5D)%3B%20they%20are%20produced%20in%20between%20English%20alveolars%20/s%2C%20z/%20and%20postalveolars%20/%CA%83%2C%20%CA%92/.%20/s/%20is%20variably%20fronted%20or%20further%20retracted%20depending%20on%20environment%2C%20and%2C%20in%20some%20cases%2C%20it%20may%20be%20better%20described%20as%20an%20advanced%20postalveolar%20(%5B%CA%83%CB%96%5D).%5B7%5D%3E).
+
 **Omicron, Omega (Οο/Ωω)**
 - Pronounced like “ou”, as in “th**ou**ght”.
+
 **Pi (Ππ)**
 - Pronounced like “p”, as in “**p**ot”.
+
 **Sigma (Σσς)**
 - Pronounced like “s”, as in “**s**ock”. The previous note about our "z" and "s" sound being different [applies here, too](https://en.wikipedia.org/wiki/Modern_Greek_phonology#cite_note-FOOTNOTEArvaniti200712-7:~:text=/s/%20and%20/z/%20are%20somewhat%20retracted%20(%5Bs%CC%A0%2C%20z%CC%A0%5D)%3B%20they%20are%20produced%20in%20between%20English%20alveolars%20/s%2C%20z/%20and%20postalveolars%20/%CA%83%2C%20%CA%92/.%20/s/%20is%20variably%20fronted%20or%20further%20retracted%20depending%20on%20environment%2C%20and%2C%20in%20some%20cases%2C%20it%20may%20be%20better%20described%20as%20an%20advanced%20postalveolar%20(%5B%CA%83%CB%96%5D).%5B7%5D%3E).
+
 **Tau (Ττ)**
 - Pronounced like “t”, as in “**t**ie”.
+
 **Phi (Φφ)**
 - Pronounced like “f”, as in “**f**ur”.
+
 **Psi (Ψψ)**
 - Pronounced like “ps”, as in “si**ps**”. The previous note about our "z" and "s" sound being different [applies here, too](https://en.wikipedia.org/wiki/Modern_Greek_phonology#cite_note-FOOTNOTEArvaniti200712-7:~:text=/s/%20and%20/z/%20are%20somewhat%20retracted%20(%5Bs%CC%A0%2C%20z%CC%A0%5D)%3B%20they%20are%20produced%20in%20between%20English%20alveolars%20/s%2C%20z/%20and%20postalveolars%20/%CA%83%2C%20%CA%92/.%20/s/%20is%20variably%20fronted%20or%20further%20retracted%20depending%20on%20environment%2C%20and%2C%20in%20some%20cases%2C%20it%20may%20be%20better%20described%20as%20an%20advanced%20postalveolar%20(%5B%CA%83%CB%96%5D).%5B7%5D%3E).
 
@@ -111,27 +128,36 @@ As noted above, Σ, σ, ς and Ζ, ζ are pronounced slightly differently to the
 
 **ΜΠ/μπ**
 - Pronounced like “b” as in “bo**b**”. May also be pronounced like “mb” if not found on the first syllable of a word, such as in “e**mb**assy”.
+
 **ΝΤ/ντ**
 - Pronounced like “d” as in “dad”. May also be pronounced like “nd” if not found on the first syllable of a word, such as in “dandy” ([example pronunciation here](https://en.wikipedia.org/wiki/Modern_Greek_phonology#cite_note-FOOTNOTEArvaniti200712-7:~:text=Voiced%20stops%20are,%CE%BD%CF%84%20in%20Greek.)).
+
 **ΟΙ/οι/ΕΙ/ει/ΥΙ/υι**
 - Pronounced like “ee”, same as with η/ι/υ.
+
 **ΑΙ/αι**
 - Pronounced the same as ε.
+
 **ΑΥ/αυ/ΕΥ/ευ**
 - If preceding a non-voiced sound, this is pronounced like “af” or “ef”. [Example for αυ, here](https://forvo.com/search/%CE%B1%CF%85%CF%84%CF%8C/), and [example for ευ, here](https://forvo.com/search/%CE%B5%CE%BB%CE%B5%CF%8D%CE%B8%CE%B5%CF%81%CE%BF%CF%82/). If preceding a voiced sound, this is pronounced like “av” or “ev”. [Example for αυ, here](https://forvo.com/search/%CE%B1%CF%8D%CF%81%CE%B9%CE%BF/) , and [example for ευ, here](https://forvo.com/search/%CE%B5%CF%85%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1/). An explanation as to what "voiced" and "unvoiced" means [can be found here](https://i.imgur.com/9V11SDK.png).
+
 **ΓΓ/γγ/ΓΚ/γκ**
 - Pronounced like “g” as in “**g**uard”, though may also be pronounced similar to “ng” ([example pronunciation here](https://forvo.com/search/%CE%B1%CE%B3%CE%B3%CE%BB%CE%B9%CE%BA%CE%AC/)) if not found in the first syllable of a word, such as “mango” ([explained here](https://en.wikipedia.org/wiki/Modern_Greek_phonology#cite_note-FOOTNOTEArvaniti200712-7:~:text=Voiced%20stops%20are,%CE%BD%CF%84%20in%20Greek.)).
+
 **ΤΖ/τζ**
 - Pronounced like a “dz” sound, such as in “pi**zz**a” ([example here](https://en.wikipedia.org/wiki/Voiced_alveolar_affricate)). Example pronunciation [can be found here](https://forvo.com/search/%CF%84%CE%B6%CE%AC%CE%BC%CF%80%CE%B1/).
 #### Sounds not found in English
 **Rho (Ρρ)**
 - Pronounced as the single tapped "r", as found in languages such as Spanish. Example pronunciation [can be found here](https://forvo.com/search/%CF%81%CE%B5%CF%80%CF%8C/). May be pronounced as a slight trill when found after a consonant.
+
 **Chi (Χχ)**
 - When χ precedes any ε or η/ι/υ sound, it’s most similar to the English “h” as in “hello”. However, it’s not the same, and is pronounced slightly harsher (imagine a cat hissing). Example pronunciations [can be found here](https://forvo.com/search/%CF%87%CE%AD%CF%81%CE%B9/) (χε), [and here](https://forvo.com/search/%CF%87%CE%B9%CF%8C%CE%BD%CE%B9/) (χι).
 - When χ precedes any o/ω, α or ου sound, it is pronounced a bit differently. There’s no good English representation for this, but is represented with “jo/ja/ju” in Spanish. Example pronunciations [can be found here](https://forvo.com/search/%CF%87%CF%8E%CF%81%CE%BF%CF%82/) (χω/ο), [here](https://forvo.com/search/%CF%87%CE%B1%CF%81%CE%AC/) (χα), and [here](https://forvo.com/search/%CF%87%CE%BF%CF%8D%CF%86%CF%84%CE%B1/) (χου). This also applies to any χ that doesn’t precede a vowel ([such as in προχθές](https://forvo.com/search/%CF%80%CF%81%CE%BF%CF%87%CE%B8%CE%AD%CF%82/)).
+
 **Gamma (Γγ)**
 - When γ precedes any ε or η/ι/υ sound, it’s most similar to the English “y” as in “yellow”. Similarly to χ, it’s not the same and is pronounced a little harsher. Example pronunciations [can be found here](https://forvo.com/search/%CE%B3%CE%B9%CE%B1/) (γι), [and here](https://forvo.com/search/%CE%B3%CE%AD%CE%BD%CE%B9%CE%B1/) (γε).
 - When γ precedes any ο/ω, α or ου sound, it is pronounced like a half “g”. It is sometimes represented as “gh”. Again, there’s no good English representation for this, but can be practised by repeatedly producing the “g” sound without the stop at the end. Example pronunciations [can be found here](https://forvo.com/search/%CE%B3%CE%B1%CE%BC%CF%80%CF%81%CF%8C%CF%82/) (γα), [here](https://forvo.com/search/%CE%B3%CE%BF%CE%B7%CF%84%CE%B5%CE%AF%CE%B1/el/) (γο), and [here](https://forvo.com/word/%CF%84%CE%BF_%CE%B3%CE%BF%CF%85%CF%81%CE%BF%CF%8D%CE%BD%CE%B9/#el) (γου).
+
 **Γχ/γχ**
 - Here, the χ is pronounced as expected, whereas the γ changes to be more similar to “n” in “bang” ([explained here](https://en.wikipedia.org/wiki/Modern_Greek_phonology#:~:text=The%20alveolar%20nasal,stress%27)). Example pronunciations [can be found here](https://forvo.com/search/%CF%83%CF%85%CE%B3%CF%87%CF%8D%CE%B6%CF%89/) (γχυ), and [here](https://forvo.com/search/%CE%AC%CE%B3%CF%87%CE%BF%CF%82/) (γχο).
 
