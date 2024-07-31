@@ -1,42 +1,42 @@
 ### How can I improve my Greek?
 This is a common question not only from beginners but from all those wishing to progress from their current level to a higher one. This document provides a guide for learning Greek along with a compilation of resources to aid students of all students further progress their level, while providing suggestions for what you should use and what you should avoid.
 ### Contents
-- [[#What to avoid as a beginner]]
-- [[#Alphabet & Pronunciation]]
-- [[#Grammar and Phrases]]
-  - [[#Language Transfer]]
-  - [[#κλικ στα ελληνικά]]
-  - [[#Greek Lessons Online]]
-  - [[#GreekPod101]]
-  - [[#Do You Speak Greek?]]
-  - [[#Linguatree]]
-  - [[#Tense Combinations]]
-  - [[#Different uses of και]]
-- [[#Vocabulary]]
-  - Top 5000 Words by Frequency
-  - Modern Greek 5000 Words
-  - Advanced Modern Greek
-- [[#Reading Comprehension]]
-  - [[#LingQ Mini Stories (A1 - B1)]]
-  - [[#τράπεζα κειμένων (All Levels)]]
-  - [[#παιδικά παραμύθια (B2)]]
-  - [[#Free Children's E-Books (B2)]]
-  - [[#Free E-Books (B2+)]]
-- [[#Listening Comprehension]]
-  - [[#Easy Greek]]
-  - [[#Greek TEDx Talks]]
-  - [[#Καθημερινή Φυσική]]
-  - [[#The Skeptic Theory]]
-  - [[#Online Greek Tutor]]
-  - [[#Greek TV Shows/Movies]]
-- [[#Practice Exams]]
-  - [[#Ελληνομάθεια]]
-- [[#Other Resources]]
-  - [[#Greek Learning Discord]]
-  - [[#Clozemaster]]
-  - [[#FSI Audio Course]]
-  - [[#Forvo]]
-  - [[#Wiktionary]]
+- [What to avoid as a beginner](#what-to-avoid-as-a-beginner)
+- [Alphabet & Pronunciation](#alphabet--pronunciation)
+- [Grammar and Phrases](#grammar-and-phrases)
+    - [Language Transfer](#language-transfer)
+    - [κλικ στα ελληνικά](#%CE%BA%CE%BB%CE%B9%CE%BA-%CF%83%CF%84%CE%B1-%CE%B5%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC)
+    - [Greek Lessons Online](#greek-lessons-online)
+    - [GreekPod101](#greekpod101)
+    - [Do You Speak Greek?](#do-you-speak-greek)
+    - [Linguatree](#linguatree)
+    - [Tense Combinations](#tense-combinations)
+    - [Different uses of και](#different-uses-of-%CE%BA%CE%B1%CE%B9)
+- [Vocabulary](#vocabulary)
+    - [Top 5000 Words by Frequency](#top-5000-words-by-frequency)
+    - [Modern Greek 5000 Words](#modern-greek-5000-words)
+    - [Advanced Modern Greek](#advanced-modern-greek)
+- [Reading Comprehension](#reading-comprehension)
+    - [LingQ Mini Stories (A1 - B1)](#lingq-mini-stories-a1---b1)
+    - [τράπεζα κειμένων (All Levels)](#%CF%84%CF%81%CE%AC%CF%80%CE%B5%CE%B6%CE%B1-%CE%BA%CE%B5%CE%B9%CE%BC%CE%AD%CE%BD%CF%89%CE%BD-all-levels)
+    - [παιδικά παραμύθια (B2)](#%CF%80%CE%B1%CE%B9%CE%B4%CE%B9%CE%BA%CE%AC-%CF%80%CE%B1%CF%81%CE%B1%CE%BC%CF%8D%CE%B8%CE%B9%CE%B1-b2)
+    - [Free Children's E-Books (B2)](#free-childrens-e-books-b2)
+    - [Free E-Books (B2+)](#free-e-books-b2)
+- [Listening Comprehension](#listening-comprehension)
+    - [Easy Greek](#easy-greek)
+    - [Greek TEDx Talks](#greek-tedx-talks)
+    - [Καθημερινή Φυσική](#%CE%BA%CE%B1%CE%B8%CE%B7%CE%BC%CE%B5%CF%81%CE%B9%CE%BD%CE%AE-%CF%86%CF%85%CF%83%CE%B9%CE%BA%CE%AE)
+    - [The Skeptic Theory](#the-skeptic-theory)
+    - [Online Greek Tutor](#online-greek-tutor)
+    - [Greek TV Shows/Movies](#greek-tv-showsmovies)
+- [Practice Exams](#practice-exams)
+    - [Ελληνομάθεια](#%CE%B5%CE%BB%CE%BB%CE%B7%CE%BD%CE%BF%CE%BC%CE%AC%CE%B8%CE%B5%CE%B9%CE%B1)
+- [Other Resources](#other-resources)
+    - [Greek Learning Discord](#greek-learning-discord)
+    - [Clozemaster](#clozemaster)
+    - [FSI Audio Course](#fsi-audio-course)
+    - [Forvo](#forvo)
+    - [Wiktionary](#wiktionary)
 ### What to avoid as a beginner
 Though there are many resources out there that provide accurate and useful information for Greek, there are also a lot that contain a lot of misinformation and will provide very little help, or may even hinder your progress with Modern Greek. Here are some sites/apps you should avoid.
 
