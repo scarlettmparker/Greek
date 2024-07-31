@@ -14,9 +14,9 @@ This is a common question not only from beginners but from all those wishing to 
   - [Tense Combinations](#tense-combinations)
   - [Different uses of και](#different-uses-of-%CE%BA%CE%B1%CE%B9)
 - [Vocabulary](#vocabulary)
-  - [Top 5000 Words by Frequency](#top-5000-words-by-frequency)
-  - [Modern Greek 5000 Words](#modern-greek-5000-words)
-  - [Advanced Modern Greek](#advanced-modern-greek)
+  - Top 5000 Words by Frequency
+  - Modern Greek 5000 Words
+  - Advanced Modern Greek
 - [Reading Comprehension](#reading-comprehension)
   - [LingQ Mini Stories (A1 - B1)](#lingq-mini-stories-a1---b1)
   - [τράπεζα κειμένων (All Levels)](#%CF%84%CF%81%CE%AC%CF%80%CE%B5%CE%B6%CE%B1-%CE%BA%CE%B5%CE%B9%CE%BC%CE%AD%CE%BD%CF%89%CE%BD-all-levels)
