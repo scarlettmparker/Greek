@@ -1,5 +1,5 @@
 ### How can I improve my Greek?
-This is a common question not only from beginners but from all those wishing to progress from their current level to a higher one. This document provides a guide for learning Greek along with a compilation of resources to aid students of all students further progress their level, while providing suggestions for what you should use and what you should avoid.
+This is a common question not only from beginners but from all those wishing to progress from their current level to a higher one. This document provides a guide for learning Greek along with a compilation of resources to aid students of all levels further progress their Greek, while providing suggestions for what you should use and what you should avoid.
 
 ### Contents
 - [What to avoid as a beginner](#what-to-avoid-as-a-beginner)
