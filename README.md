@@ -146,6 +146,7 @@ As noted above, Σ, σ, ς and Ζ, ζ are pronounced slightly differently to the
 
 **ΤΖ/τζ**
 - Pronounced like a “dz” sound, such as in “pi**zz**a” ([example here](https://en.wikipedia.org/wiki/Voiced_alveolar_affricate)). Example pronunciation [can be found here](https://forvo.com/search/%CF%84%CE%B6%CE%AC%CE%BC%CF%80%CE%B1/).
+
 #### Sounds not found in English
 **Rho (Ρρ)**
 - Pronounced as the single tapped "r", as found in languages such as Spanish. Example pronunciation [can be found here](https://forvo.com/search/%CF%81%CE%B5%CF%80%CF%8C/). May be pronounced as a slight trill when found after a consonant.
