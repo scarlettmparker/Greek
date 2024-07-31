@@ -37,6 +37,7 @@ This is a common question not only from beginners but from all those wishing to 
     - [FSI Audio Course](#fsi-audio-course)
     - [Forvo](#forvo)
     - [Wiktionary](#wiktionary)
+
 ### What to avoid as a beginner
 Though there are many resources out there that provide accurate and useful information for Greek, there are also a lot that contain a lot of misinformation and will provide very little help, or may even hinder your progress with Modern Greek. Here are some sites/apps you should avoid.
 
