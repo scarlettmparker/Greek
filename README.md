@@ -17,17 +17,19 @@ This is a common question not only from beginners but from all those wishing to 
   - Top 5000 Words by Frequency
   - Modern Greek 5000 Words
   - Advanced Modern Greek
+  - A1, A2, and B1 Sets
 - [Reading Comprehension](#reading-comprehension)
   - [LingQ Mini Stories (A1 - B1)](#lingq-mini-stories-a1---b1)
   - [τράπεζα κειμένων (All Levels)](#%CF%84%CF%81%CE%AC%CF%80%CE%B5%CE%B6%CE%B1-%CE%BA%CE%B5%CE%B9%CE%BC%CE%AD%CE%BD%CF%89%CE%BD-all-levels)
   - [παιδικά παραμύθια (B2)](#%CF%80%CE%B1%CE%B9%CE%B4%CE%B9%CE%BA%CE%AC-%CF%80%CE%B1%CF%81%CE%B1%CE%BC%CF%8D%CE%B8%CE%B9%CE%B1-b2)
   - [Free Children's E-Books (B2)](#free-childrens-e-books-b2)
   - [Free E-Books (B2+)](#free-e-books-b2)
-- [Listening Comprehension](#listening-comprehension)
-  - [Easy Greek](#easy-greek)
+- [Immersion](#immersion)
   - [Greek TEDx Talks](#greek-tedx-talks)
   - [Καθημερινή Φυσική](#%CE%BA%CE%B1%CE%B8%CE%B7%CE%BC%CE%B5%CF%81%CE%B9%CE%BD%CE%AE-%CF%86%CF%85%CF%83%CE%B9%CE%BA%CE%AE)
   - [The Skeptic Theory](#the-skeptic-theory)
+  - [Easy Greek](#easy-greek)
+  - [Greekonomics](#greekonomics)
   - [Online Greek Tutor](#online-greek-tutor)
   - [Greek TV Shows/Movies](#greek-tv-showsmovies)
 - [Practice Exams](#practice-exams)
@@ -222,6 +224,7 @@ Since there are many Ancient Greek decks out there, here are some useful Modern 
 - [Top 5000 Words in Greek by Frequency](https://drive.google.com/file/d/1Y-hAptiaNCUhYK8SkCLswmXXfzP7LPNG/view?usp=drive_link).
 - [Modern Greek 5000 Words](https://ankiweb.net/shared/info/1479612895).
 - [Advanced Modern Greek](https://drive.google.com/file/d/1Yl3PdBQt-vkpGvoi-aogZzoNLq3jyujs/view?usp=drive_link).
+- [A1, A2 and B1 Sets](https://drive.google.com/drive/folders/1K3fe2E2KUDPO9D1VvFmW1PGFqvN9naWy?usp=drive_link).
 
 More flashcard sets may be added in the future, including core vocabulary for levels based on the texts from τράπεζα κειμένων.
 
@@ -243,7 +246,7 @@ Free E-Books meant for children, but are suitable for learners as well. [Stories
 #### Free E-Books (B2+)
 Free E-Books meant for Greek speakers, and may only be suitable for advanced learners. [Free E-Books can be found here](https://free-ebooks.gr/).
 
-### Listening Comprehension
+### Immersion
 Immersion is a useful tool that will help you drastically improve your comprehension of the language and ability to correct your own mistakes. Though it may be difficult to grasp the lightning speed at which Greek people speak as a beginner, it's always a good idea to start sooner rather than later. Below are some links that will help you improve your comprehension
 
 #### Greek TEDx Talks
@@ -258,11 +261,15 @@ Similar to καθημερινή φυσική. Has subtitles in Greek online. [Ch
 #### Easy Greek
 Easy Greek is both a YouTube channel and a podcast, and is fantastic for learners. They have subtitles in various languages and also have a "Super Easy" series for complete beginners. [YouTube channel can be found here](https://www.youtube.com/@EasyGreekVideos), and the [podcast can be found here](https://www.easygreek.fm/).
 
+#### Greekonomics
+Greekonomics is a Greek YouTube channel that discusses the economy and how it affects society. Videos have subtitles in Greek (and some with English, as well). [His channel can be found here](https://www.youtube.com/@Greekonomics).
+
 #### Online Greek Tutor
 Greek lessons in Greek, has both English and Greek subtitles. Slower spoken than full speed Greek, and may be useful for intermediate learners. [Channel can be found here](https://www.youtube.com/@Theonlinegreektutor/videos).
 
 #### Greek TV Shows/Movies
 There are multiple sites that will provide access to Greek TV shows online, and Netflix has a few as well. You can find (very legally) [Greek TV shows and Movies online, here](https://xrysoi.pro/).
+You can also find [στο παρά πέντε with Greek subtitles, here](https://unipigr-my.sharepoint.com/:f:/g/personal/p17085_unipi_gr/EhStrn4DEQ5FqPu8FnrhhwwBILunfq9OM17eY4ogUpEehg?e=u4eeb0).
 ### Practice Exams
 
 #### Ελληνομάθεια
