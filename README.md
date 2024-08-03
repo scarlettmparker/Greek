@@ -190,7 +190,7 @@ Once you have learned the alphabet and can read Greek, the time has come to lear
 #### Language Transfer
 This is my personal all-time favourite course for learning Modern Greek. It's a podcast series (120 episodes) that goes through all the basic Modern Greek grammar while teaching you useful vocabulary in a natural, easy to remember way. It can be found [on YouTube](https://www.youtube.com/watch?v=dHsgJkV9J30&list=PLeA5t3dWTWvtWkl4oOV8J9SMB7L9N9Ogt), and [on SoundCloud](https://soundcloud.com/languagetransfer/sets/complete-greek-more-audios), along with [a transcript, here](https://static1.squarespace.com/static/5c69bfa4f4e531370e74fa44/t/5d03d32873f6f10001a364b5/1560531782855/COMPLETE+GREEK+-+Transcripts_LT.pdf).
 
-It may also be a good idea to pair Language Transfer with another source to learn vocabulary (as the course is mainly grammar focused). Tips for improving vocabulary [can be found here].
+It may also be a good idea to pair Language Transfer with another source to learn vocabulary (as the course is mainly grammar focused). Sources for improving vocabulary [can be found here](#vocabulary).
 
 #### κλικ στα ελληνικά
 κλικ στα ελληνικά is a book series providing lessons for students of levels from A1 - C1. These books are entirely in Greek, however, so it may be a bit difficult to use as a complete beginner (and you may need someone to help you). Links to each level can be found below.
