@@ -42,7 +42,7 @@ This is a common question not only from beginners but from all those wishing to 
   - [Wiktionary](#wiktionary)
 
 ### What to avoid as a beginner
-h there are many resources out there that provide accurate and useful information for Greek, there are also a lot that contain a lot of misinformation and will provide very little help, or may even hinder your progress with Modern Greek. Here are some sites/apps you should avoid.
+There are many resources out there that provide accurate and useful information for Greek, there are also a lot that contain a lot of misinformation and will provide very little help, or may even hinder your progress with Modern Greek. Here are some sites/apps you should avoid.
 
 The below comes from experience. As an upper-intermediate Greek learner who has had to sift through this stuff, these recommendations are in place to ensure you don't make the same mistakes that I did. If you wish to still do all of this, anyway, feel free to do so. I don't wish to force any specific method of learning on anyone, and this is just general advice.
 
